@@ -2,14 +2,14 @@
 에이블스쿨 빅프로젝트
 
 # install
-'''
+```
 $ pip install -r requriment.txt
-'''
+```
 
 conda
-'''
+```
 $ conda create -n <환경명> python=3.11
-'''
+```
 
 # 서비스 소개
 
