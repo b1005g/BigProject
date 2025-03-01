@@ -76,6 +76,14 @@ $ conda create -n <환경명> python=3.11
 
 vs code
 ```
+$ python -m venv venv
+- ctrl + shift + p : 인터프리터 설정
+
+$ cd venv Scripts
+
+$ activate venv
+
+$ pip install -r requriment.txt
 ```
 
 # 사용 모델
