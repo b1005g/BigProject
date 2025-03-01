@@ -42,7 +42,7 @@
                     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px;" alt=""/>
                 </a>
                     <br/><sub><b> 데이터분석, Front-end </b></sub>
-                    <br/><sub><b> 박찬영영 </b></sub><br/>
+                    <br/><sub><b> 박찬영 </b></sub><br/>
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/b1005g">
